@@ -1,4 +1,8 @@
-# European ARI Forecasting Hub
+# European ARI Forecasting Hub - Season 2023/2024
+
+> [!NOTE]
+> This repository archives the forecasts computed during season 2023/2024. To explore forecasts for the current season visit the new [Syndromic Indicators repository](https://github.com/european-modelling-hubs/RespiCast-SyndromicIndicators).
+
 The European ARI Forecasting Hub collates weekly forecasts on Acute Respiratory Infection (ARI) incidence in EU/EEA countries. To view the latest forecast visit the [Hub Website](https://respicast.ecdc.europa.eu/forecasts/).
 
 ## Forecasting Targets and Update Frequency
